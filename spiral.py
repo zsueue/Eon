@@ -1,5 +1,5 @@
-R = int(input("insert Raw : "))
-C = int(input("insert Cal : "))
+R = int(input("Raw : "))
+C = int(input("Cal : "))
 
 def spiral_array(R,C):
 
